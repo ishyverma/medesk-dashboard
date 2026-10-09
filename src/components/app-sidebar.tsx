@@ -109,7 +109,7 @@ export function AppSidebar() {
       </SidebarContent>
 
       <SidebarFooter className="px-[0.8rem] pb-[0.8rem] group-data-[collapsible=icon]:px-0">
-        <SidebarMenu className="gap-[0.1rem]">
+        <SidebarMenu className="gap-[0.5rem]">
           <SidebarMenuItem>
             <SidebarMenuButton
               onClick={toggleTheme}
